@@ -1,0 +1,85 @@
+[
+    {
+        "noticias": {
+            "name": "All",
+            "date": "2023-07-30",
+            "show": true,
+            "categorys": [
+                {
+                    "name": "Entretenimineto",
+                    "value": "Entretenimineto"
+                },
+                {
+                    "name": "Música",
+                    "value": "Música"   
+                },
+                {
+                    "name": "Novedades",
+                    "value": "novedades"
+                },
+                {
+                    "name": "Otros",
+                    "value": "otros"
+                }
+            ]
+
+        },
+        "detailNoticias": [
+            {
+                "title": "Taylor Swift anuncia el lanzamiento de '1989 (Taylor's Version)', el disco más esperado por sus fans",
+                "date": "9 de Agosto de 2023",
+                "show": true,
+                "text_small": "Taylor Swift ha anunciado oficialmente la fecha de estreno de1989 (Taylor's Version) durante el último concierto en EEUU de su gira The Eras.",
+                "text_long": "Taylor Swift cerró este miércoles a lo grande el tramo estadounidense 2023 de su emblemática gira Eras Tour en el SoFi Stadium de Los Ángeles anunciando la cuarta edición de su proyecto de regrabación: 1989 (Taylor's Version).Tras tocar en directo algunos temas de su era 1989, la estrella del pop se acercó al centro del escenario con una guitarra acústica en la mano y señaló al público que había estado trabajando en algo grande.'En lugar de contároslo, os lo vamos a enseñar', dijo al público mientras la pantalla se iluminaba detrás de ella. '1989 (Taylor's Version) disponible el 27 de octubre', aclamó.'Para ser completamente honesta, esta es mi regrabación favorita porque las 5 Vault Tracks [las canciones inéditas] son increíbles. No me puedo creer que se quedaran fuera. Pero no por mucho tiempo.",
+                "url_imag": "https://media.cnn.com/api/v1/images/stellar/prod/230810095729-1989-taylors-version-october.jpg?c=original",
+                "font_noticia":"https://www.elmundo.es/cultura/musica/2023/08/10/64d4a4dae85ecef1348b4577.html"
+            },
+            {
+                "title": "Paro de taxistas en Bogotá cerró con bloqueos en la calle 26",
+                "date": "9 de Agosto de 2023",
+                "show": true,
+                "text_small": "Este miércoles 9 de agosto los taxistas realizan un ‘plan tortuga’ en protesta al alza de la gasolina y a la regulación de las aplicaciones de transporte.",
+                "text_long": "Los conductores de taxi convocaron el paro por los constantes aumentos en el precio de la gasolina. El valor del combustible crece 600 pesos cada mes y actualmente el galón está en $13.592 en promedio. Según el Gobierno Nacional, el alza en la gasolina se da para reducir el déficit en el Fondo de Estabilización de Precios de los Combustibles. Los taxistas sostienen que el presidente Gustavo Petro se comprometió con ellos durante su campaña para establecer tarifas diferenciales. Los conductores le piden que cumpla con su palabra. El Gobierno propuso incrementar el precio de las tarifas a los pasajeros, pero los conductores afirman que esto no resuelve el problema, sino que se lo traslada a los usuarios, algo que afecta la demanda en el servicio de taxi.",
+                "url_imag": "https://www.elespectador.com/resizer/4IV_Jx-nChWilwPGkM6zz2HspZQ=/525x350/filters:quality(60):format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/7O4TRQP4XNFM5AODNJQ76P2MHY.JPG",
+                "font_noticia":"https://www.elespectador.com/bogota/paro-de-taxistas-movilidad-y-estado-de-las-vias-asi-avanza-el-plan-tortuga/"
+            },
+            {
+                "title": "Taylor Swift es la principal nominada a los MTV Video Music Awards 2023",
+                "date": "10 de Agosto de 2023",
+                "show": true,
+                "text_small": "La cantautora estadounidense es la principal nominada a los MTV Video Music Awards 2023. Está presente en ocho categorías en unas nominaciones.",
+                "text_long": "Taylor Swift lidera la lista de nominados a los Premios MTV a los Videos Musicales 2023 con ocho menciones, seguida por SZA (seis); Doja Cat, Kim Petras, Miley Cyrus, Nicki Minaj, Olivia Rodrigo y Sam Smith (cinco cada una); y BLACKPINK, Diddy y Shakira (cuatro cada cual). Las mujeres representan seis de los siete nominados a video del año, con “Attention” de Doja, “Flowers” de Cyrus, “Super Freaky Girl” de Minaj, “vampire” de Rodrigo, “Kill Bill” de SZA y “Anti-Hero” de Swift. La séptima nominación es para una colaboración histórica: “Unholy” de Smith & Petras, que los convirtió a ambos en los primeros solistas abiertamente no binario y abiertamente transgénero, respectivamente, en tener una canción No. 1 en el Billboard Hot 100.",
+                "url_imag": "https://www.elespectador.com/resizer/nZWzxoDNuRPoUVipoQPKAALT0FI=/525x350/filters:quality(60):format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/FYNQ3Z4LXW4HMI7B42K7RIPMJE.jpg",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Harry Styles donará 6,5 millones de dólares recaudados en su ‘Love on Tour’ a varias causas benéficas",
+                "date": "26 de Julio de 2023",
+                "show": true,
+                "text_small": "Harry Styles ha recaudado durante estos dos años 6,5 millones de dólares que ha decidido que va destinar a causas benéficas.",
+                "text_long": "Harry Styles concluyó su gira mundial Love on Tour hace dos semanas, cerrando casi dos años de espectáculos con un final apoteósico en Reggio Emilia, Italia, tras pasar por Estados Unidos, Latinoamérica, Europa y actuar frente a más de cinco millones de personas. Después de su emotivo adiós en el escenario, la estrella del pop británica compartió un extenso mensaje de agradecimiento en Instagram para los millones de fans que asistieron. “Ha sido la mejor experiencia de toda mi vida”, escribió el artista en sus redes sociales. El artista británico es consciente de su influencia y en muchos de sus conciertos ha apostado por mandar mensajes activistas a favor de causas como el cuidado del medio ambiente, los derechos de las mujeres, personas racializadas o del colectivo LGTB o incluso contra el uso de armas. Una vez terminada la gira del artista británico, varios medios estadounidenses se han hecho eco de una noticia que vuelve a confirmar la calidad humana del artista, pues Harry Styles ha recaudado durante estos dos años 6,5 millones de dólares que ha decidido que va destinar a causas benéficas.",
+                "url_imag": "https://images.impresa.pt/expresso/2023-07-15-New-H-image-2_T.jpg-d4f4e80a",
+                "font_noticia":"https://okdiario.com/happyfm/harry-styles-donara-65-millones-dolares-recaudados-love-on-tour-varias-causas-beneficas-11353566"
+            },
+            {
+                "title": "Barbie: El millonario récord de la directora Greta Gerwig con la película",
+                "date": "8 de Agosto de 2023",
+                "show": true,
+                "text_small": "Con una recaudación de mil millones de dólares, la película de Greta Gerwig ha dejado atrás el éxito de 'The Batman' de Matt Reeves, que logró 770 millones de dólares el año pasado.",
+                "text_long": "Barbie sigue dejando un serie de récords que desde ya la colocan como una de las cintas con más entradas vendidas y el fenómeno se extiende a su directora, Greta Gerwig, quien se convierte en la primera mujer en estar al frente de una cinta que ha conseguido superar los mil millones de dólares en taquilla. Con una recaudación de mil millones de dólares, la película de Greta Gerwig ha dejado atrás el éxito de 'The Batman' de Matt Reeves, que logró 770 millones de dólares el año pasado. Gracias a estas cifras, 'Barbie' es la película más taquillera de Warner Bros. Discovery en lo que va de la década del 2020, algo que pocos esperaban para una película basada en la icónica muñeca de Mattel. El logro de superar la impresionante cifra de un billón de dólares en taquilla no solo es un testimonio del impacto de la película en la cultura popular, sino que también representa un paso significativo hacia la equidad de género en la industria del cine.",
+                "url_imag": "https://phantom-marca-mx.unidadeditorial.es/3ad19bbf9bf9c3221e16e0bbd6531c13/resize/828/f/webp/mx/assets/multimedia/imagenes/2023/08/07/16913767316364.jpg",
+                "font_noticia":"https://www.marca.com/mx/trending/cine/2023/08/07/64d05c72268e3ec4648b4577.html"
+            },
+            {
+                "title": "Huelga de guionistas de Hollywood cumple 100 días",
+                "date": "10 de Agosto de 2023",
+                "show": true,
+                "text_small": "La huelga de guionistas de Hollywood cumple 100 días, igualando a la huelga de 2007-2008",
+                "text_long": "El hito del miércoles se produce cuando las industrias del cine y la televisión de Estados Unidos siguen paralizadas por las huelgas de sus actores y guionistas. No hay un final previsible: una sesión de negociación la semana pasada que involucró a los estudios de Hollywood, los servicios de streaming y los guionistas en huelga terminó con pocos avances. Las cadenas de televisión están a un mes de comenzar una nueva temporada de otoño, y las emisoras ya han implementado planes de contingencia para la programación que excluye sus series con guion más populares. Los actores de Hollywood comenzaron su propia huelga el 14 de julio, desatando la primera huelga conjunta en el sector desde 1960. Los problemas en juego para ambos sindicatos incluyen el uso de inteligencia artificial y regalías relacionados con los servicios de streaming. El Sindicato de Guionistas de Estados Unidos realizó mítines especiales para conmemorar el día número 100 tanto en Nueva York como en Los Ángeles. Afuera de las oficinas de Netflix en Broadway en Manhattan, la escena tenía un ambiente optimista. Un flujo constante de manifestantes, tanto guionistas como sus actores aliados del Sindicato de Actores de la Pantalla-Federación Estadounidense de Artistas de Radio y Televisión (SAG-AFTRA por sus siglas en inglés), bailaron, tocaron tambores y gritaron consignas mientras marchaban alrededor de la cuadra de la ciudad.",
+                "url_imag": "https://es.rollingstone.com/wp-content/uploads/2023/05/Luces-camara-y-nada-de-accion-La-huelga-de-guionistas-que-paraliza-el-cine-y-la-television-en-Estados-Unidos.jpg",
+                "font_noticia":"https://www.independentespanol.com/noticias/huelga-de-guionistas-de-hollywood-cumple-100-dias-b2390599.html"
+            }
+        ]             
+
+    }
+]

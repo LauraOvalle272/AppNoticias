@@ -1,0 +1,48 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>Noticia</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  
+
+  <div>
+    <ion-row>
+      <ion-button color="medium">Entretenimiento</ion-button>
+      <ion-button color="medium">Música</ion-button>
+      <ion-button color="medium">Novedades</ion-button>
+    </ion-row>
+  
+    
+      <ion-list>
+        <ion-item>
+          <ion-title>Recientemente</ion-title>
+        </ion-item>
+      </ion-list>
+ 
+
+  
+      <ion-card *ngFor="let noticia of listNoticias" (click)="Navigate(noticia)">
+        <ion-card-header>
+          <ion-card-title>
+          <h3 class="titulo">{{noticia.title}}</h3>
+          <h5 class="date">{{noticia.date}}</h5>
+          </ion-card-title>
+        </ion-card-header>
+        <ion-card-content>
+          <div class="centered-content">
+          <ion-img src="{{noticia.url_imag}}" class="noticia"></ion-img>
+          </div>
+          <br>
+          <p class="descripcion">{{noticia.text_small}}</p>
+          
+        </ion-card-content>
+      </ion-card>
+   
+
+
+         
+
+
+

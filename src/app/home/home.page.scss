@@ -1,0 +1,50 @@
+
+ion-button{
+  margin-left: 30px;
+  margin: 20px;
+  
+}
+
+ion-card{ 
+  width: 360px;
+  height: 510px;
+  background-color: rgb(255, 255, 255);
+}
+
+
+
+.titulo{
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  
+}
+
+.descripcion{
+  font-size: 16px;
+  color:black;
+}
+
+.noticia{ 
+  width: 300px;
+}
+
+.date{
+  color:#15357e;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+
+ion-toolbar {
+  --color: #ffffff;
+  --background: #15357e;
+}
+
+.centered-content {
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+  text-align: center;
+}
